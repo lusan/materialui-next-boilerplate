@@ -20,3 +20,18 @@ npm run dev
 
 [Next.js](https://github.com/zeit/next.js) is a framework for server-rendered React apps.
 # materialui-next-boilerplate
+
+# Todo
+- Redux
+- Redux Observable
+- Layout/Theme
+- Typography 
+- Redux Persist
+
+# Resources
+* https://github.com/HugoGiraudel/sass-boilerplate/tree/master/stylesheets
+* https://material.io/develop/web/components/theme/
+* https://github.com/mui-org/material-ui/tree/master/examples/nextjs
+
+
+
